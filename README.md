@@ -16,7 +16,7 @@
 
 ```yaml
 name        : Anil Das
-username    : adbash9
+username    : anilx0ps
 location    : Gujarat, India
 role        : Junior Server Admin & Backend Developer
 company     : Constacloud
@@ -165,14 +165,14 @@ Production-ready Nginx config with security headers, rate limiting, CSP, HSTS. B
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adbash9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adbash9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anilx0ps9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilx0ps&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adbash9&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anilx0ps&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -214,8 +214,8 @@ Production-ready Nginx config with security headers, rate limiting, CSP, HSTS. B
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adbash9)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adbash9.github.io/resume)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anilx0ps)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anilx0ps.github.io/resume)
 
 </div>
 
@@ -223,7 +223,7 @@ Production-ready Nginx config with security headers, rate limiting, CSP, HSTS. B
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=adbash9&color=0e75b6&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=anilx0ps&color=0e75b6&style=flat&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
